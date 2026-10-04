@@ -1,0 +1,58 @@
+{
+ "utuado secondary": {
+  "skill": {
+   "R-cal": 0.492,
+   "R-lab": 0.247,
+   "R-cal-Se (exploratory)": 0.665,
+   "PG-MLP s0": 0.485,
+   "PG-MLP s1": 0.448,
+   "PG-MLP s2": 0.461,
+   "U s0": 0.481,
+   "U s1": 0.433,
+   "U s2": 0.464
+  },
+  "U_outside_range": 0.0002
+ },
+ "utuado primary": {
+  "skill": {
+   "R-cal": 0.004,
+   "R-lab": -1.268,
+   "R-cal-Se (exploratory)": 0.17,
+   "PG-MLP s0": 0.389,
+   "PG-MLP s1": 0.313,
+   "PG-MLP s2": 0.34,
+   "U s0": 0.103,
+   "U s1": 0.211,
+   "U s2": 0.075
+  },
+  "U_outside_range": 0.0111
+ },
+ "toronegro secondary": {
+  "skill": {
+   "R-cal": -0.282,
+   "R-lab": -15.448,
+   "R-cal-Se (exploratory)": -0.252,
+   "PG-MLP s0": 0.615,
+   "PG-MLP s1": 0.613,
+   "PG-MLP s2": 0.605,
+   "U s0": 0.481,
+   "U s1": 0.433,
+   "U s2": 0.442
+  },
+  "U_outside_range": 0.0012
+ },
+ "toronegro primary": {
+  "skill": {
+   "R-cal": -1.159,
+   "R-lab": -7.682,
+   "R-cal-Se (exploratory)": -0.256,
+   "PG-MLP s0": 0.73,
+   "PG-MLP s1": 0.708,
+   "PG-MLP s2": 0.715,
+   "U s0": 0.558,
+   "U s1": 0.551,
+   "U s2": 0.577
+  },
+  "U_outside_range": 0.016
+ }
+}

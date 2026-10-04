@@ -1,0 +1,62 @@
+{
+ "utuado": {
+  "deep": {
+   "z": 0.72,
+   "storms_with_data": 96,
+   "shallow_rises": 89,
+   "deep_rises": 71,
+   "both_rise": 71,
+   "median_lag_h": 2.0,
+   "iqr_h": [
+    0.75,
+    6.75
+   ],
+   "frac_le_30min": 0.22535211267605634,
+   "frac_deep_before_shallow": 0.07042253521126761
+  },
+  "deep2": {
+   "z": 0.57,
+   "storms_with_data": 96,
+   "shallow_rises": 89,
+   "deep_rises": 86,
+   "both_rise": 86,
+   "median_lag_h": 1.125,
+   "iqr_h": [
+    0.5,
+    7.75
+   ],
+   "frac_le_30min": 0.38372093023255816,
+   "frac_deep_before_shallow": 0.05813953488372093
+  }
+ },
+ "toronegro": {
+  "deep": {
+   "z": 0.9,
+   "storms_with_data": 84,
+   "shallow_rises": 5,
+   "deep_rises": 46,
+   "both_rise": 2,
+   "median_lag_h": 0.375,
+   "iqr_h": [
+    0.3125,
+    0.4375
+   ],
+   "frac_le_30min": 1.0,
+   "frac_deep_before_shallow": 0.0
+  },
+  "deep2": {
+   "z": 1.1,
+   "storms_with_data": 84,
+   "shallow_rises": 5,
+   "deep_rises": 73,
+   "both_rise": 5,
+   "median_lag_h": -21.75,
+   "iqr_h": [
+    -24.75,
+    0.25
+   ],
+   "frac_le_30min": 1.0,
+   "frac_deep_before_shallow": 0.6
+  }
+ }
+}

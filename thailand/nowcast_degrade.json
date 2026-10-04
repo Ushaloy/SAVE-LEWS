@@ -1,0 +1,9 @@
+{
+ "oracle": 0.5367563604934047,
+ "amount error, factor ~1.6 (sigma 0.5)": 0.45877057126923493,
+ "amount error, factor ~2.7 (sigma 1.0)": 0.26175877827741056,
+ "timing error +30 min": 0.3320087269966425,
+ "timing error +60 min": 0.11727230248093967,
+ "missed 30% of rain": 0.5231884219272793,
+ "past-only model": 0.015180506685453787
+}

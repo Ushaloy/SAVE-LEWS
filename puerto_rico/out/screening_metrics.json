@@ -1,0 +1,50 @@
+{
+ "utuado 12->27 cm": {
+  "storms": 80,
+  "magnitude_inversion": 0.512,
+  "timing_inversion": 0.128,
+  "timing_n": 78
+ },
+ "utuado 27->42 cm": {
+  "storms": 89,
+  "magnitude_inversion": 0.056,
+  "timing_inversion": 0.047,
+  "timing_n": 86
+ },
+ "utuado 42->56 cm": {
+  "storms": 88,
+  "magnitude_inversion": 0.489,
+  "timing_inversion": 0.131,
+  "timing_n": 84
+ },
+ "utuado 56->72 cm": {
+  "storms": 86,
+  "magnitude_inversion": 0.5,
+  "timing_inversion": 0.155,
+  "timing_n": 71
+ },
+ "toronegro 30->50 cm": {
+  "storms": 42,
+  "magnitude_inversion": 0.333,
+  "timing_inversion": 0.0,
+  "timing_n": 2
+ },
+ "toronegro 50->70 cm": {
+  "storms": 72,
+  "magnitude_inversion": 0.736,
+  "timing_inversion": 0.263,
+  "timing_n": 38
+ },
+ "toronegro 70->90 cm": {
+  "storms": 46,
+  "magnitude_inversion": 0.913,
+  "timing_inversion": 0.119,
+  "timing_n": 42
+ },
+ "toronegro 90->110 cm": {
+  "storms": 46,
+  "magnitude_inversion": 0.0,
+  "timing_inversion": 0.023,
+  "timing_n": 43
+ }
+}

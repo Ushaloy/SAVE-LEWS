@@ -1,0 +1,66 @@
+{
+ "R-cal minus PG-MLP @57cm": {
+  "0": [
+   0.008,
+   [
+    -0.118,
+    0.181
+   ]
+  ],
+  "1": [
+   0.044,
+   [
+    -0.08,
+    0.198
+   ]
+  ],
+  "2": [
+   0.032,
+   [
+    -0.091,
+    0.194
+   ]
+  ]
+ },
+ "R-cal-Se (exploratory) minus PG-MLP @57cm": {
+  "0": [
+   0.18,
+   [
+    0.073,
+    0.308
+   ]
+  ],
+  "1": [
+   0.217,
+   [
+    0.095,
+    0.342
+   ]
+  ],
+  "2": [
+   0.204,
+   [
+    0.089,
+    0.333
+   ]
+  ]
+ },
+ "perched_saturation": {
+  "pwp_40cm_kPa": {
+   "windows": 89,
+   "frac_windows_with_positive_pressure": 0.0
+  },
+  "pwp_55cm_kPa": {
+   "windows": 89,
+   "frac_windows_with_positive_pressure": 0.0
+  }
+ },
+ "72cm_peak_rise_model_over_obs": {
+  "windows": 63,
+  "median": 0.89,
+  "q25_q75": [
+   0.56,
+   1.16
+  ]
+ }
+}
